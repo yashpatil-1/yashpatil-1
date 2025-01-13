@@ -1,6 +1,5 @@
-# 💫 About Me:
-👨‍💻 Hey there! I’m Yash Patil <br>Passionate about turning ideas into real-world tech solutions, I dive into full-stack development, building seamless web and mobile applications with tools like React, Node.js, Firebase, and Docker. Whether it's crafting user-friendly UIs or optimizing backend systems, I'm always ready to solve problems and create something impactful.<br><br>🔭 Currently Working On:<br>Building SaaS platforms to empower businesses.<br>Developing full-stack web apps with a focus on scalability and performance.<br><br>🤝 Looking to Collaborate On:<br>AI/ML projects that solve real-world challenges.<br>Open-source contributions and tech-driven startups.<br><br>📚 Currently Learning:<br>Cloud Platforms (AWS, GCP) to scale applications efficiently.<br>Advanced SQL & SAS Studio for data-driven solutions.<br><br>💬 Ask Me About:<br>Full-stack development<br>Mobile app creation<br>Scaling SaaS platforms<br><br>⚡ Fun Fact:<br>I believe that every bug is just a challenge in disguise — and I’m always up for the hunt! 💻🚀
-
+# 💫 👨‍💻 Hey there! I’m Yash Patil
+ <br>Passionate about turning ideas into real-world tech solutions, I dive into full-stack development, building seamless web and mobile applications with tools like React, Node.js, Firebase, and Docker. Whether it's crafting user-friendly UIs or optimizing backend systems, I'm always ready to solve problems and create something impactful.<br><br>🔭 Currently Working On:<br>Building SaaS platforms to empower businesses.<br>Developing full-stack web apps with a focus on scalability and performance.<br><br>🤝 Looking to Collaborate On:<br>AI/ML projects that solve real-world challenges.<br>Open-source contributions and tech-driven startups.<br><br>📚 Currently Learning:<br>Cloud Platforms (AWS, GCP) to scale applications efficiently.<br>Advanced SQL & SAS Studio for data-driven solutions.<br><br>💬 Ask Me About:<br>Full-stack development<br>Mobile app creation<br>Scaling SaaS platforms<br><br>⚡ Fun Fact:<br>I believe that every bug is just a challenge in disguise — and I’m always up for the hunt! 💻🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yashpail_ll) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashpatil_ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpatil-ll) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashPat08450730) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PatilsPrime) 
@@ -12,14 +11,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashpatil-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yashpatil-1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashpatil-1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yashpatil-1&icon=3&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashpatil1) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+
