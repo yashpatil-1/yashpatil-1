@@ -10,7 +10,8 @@
 ##
 
 # 📊 GitHub Stats:
-![Yashpatil-1's Stats](https://github-readme-stats.vercel.app/api?username=Yashpatil-1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yashpatil-1?cardType=github&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashpatil-1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
