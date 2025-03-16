@@ -9,12 +9,6 @@
 
 ##
 
-# 📊 GitHub Stats:
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yashpatil-1?cardType=github&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashpatil-1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
